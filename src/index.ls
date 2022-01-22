@@ -1,4 +1,4 @@
-require! <[colors]>
+require! <[@plotdb/colors]>
 
 log = (opt={}) ->
   name = if opt.name => "[#{opt.name}]" else ''

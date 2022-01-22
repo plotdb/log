@@ -12,6 +12,6 @@
     "livescript": "^1.6.0"
   },
   "dependencies": {
-    "colors": "^1.3.3"
+    "@plotdb/colors": "^0.0.1"
   }
 }

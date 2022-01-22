@@ -1,6 +1,6 @@
 (function(){
   var colors, log, ref$;
-  colors = require('colors');
+  colors = require('@plotdb/colors');
   log = function(opt){
     var name, this$ = this;
     opt == null && (opt = {});
